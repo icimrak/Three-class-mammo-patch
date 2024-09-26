@@ -10,6 +10,9 @@ The files must be concatenated by e.g. the macos/linux command
 
 cat model* > PRETRAINED_RESNET101_ADAM_LR5e-06_BS8.tar
 
+Original model file was split using the command
+split -b 22000k PRETRAINED_RESNET101_ADAM_LR5e-06_BS8.tar model
+
 After the files modelaa .. modelah are merged into one file PRETRAINED_RESNET101_ADAM_LR5e-06_BS8.tar, the provided script example1.py demonstrates a classification of two patches.
 
 This is a Suppementary material of a paper:
