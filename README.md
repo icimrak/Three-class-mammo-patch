@@ -17,6 +17,7 @@ After the files modelaa .. modelah are merged into one file PRETRAINED_RESNET101
 
 This is a Suppementary material of a paper:
 Enhancing Breast Microcalcification Classification: From Binary to Three-Class Classifier
+https://ieeexplore.ieee.org/abstract/document/10516355
 
 When using this model, please cite the following:
 A. Mračko, I. Cimrák and L. Vanovcanová, "Enhancing Breast Microcalcification Classification: From Binary to Three-Class Classifier," 2024 35th Conference of Open Innovations Association (FRUCT), Tampere, Finland, 2024, pp. 473-481, doi: 10.23919/FRUCT61870.2024.10516355.
